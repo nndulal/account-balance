@@ -1,0 +1,27 @@
+p, h1, h2, h3, h4 {
+    margin: 0;
+}
+
+body {
+    background: gray;
+}
+
+section > * {
+    width: 90vw;
+    max-width: 70em;
+    margin: 0 auto;
+}
+
+.SecHeader {
+    background: lightgray;
+    text-align: center;
+}
+    .SecHeader h1 {
+        font-weight: 100;
+        font-size: 8em;
+    }
+
+.SecInputBar {
+    background: khaki;
+}
+
